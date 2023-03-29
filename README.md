@@ -47,11 +47,11 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">  <a href="https://linuxmint.com/" target="_blank"> <img src="./Img/R (4).png" alt="Linux" width="40" height="40"/> </a>
+    <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="./Img/R (4).png" alt="Linux" width="40" height="40"/> </a>
 <br>NodeJs
     </td>
     <td align="center" width="96"> 
-<a href="https://expressjs.com" target="_blank"> <img src="./Img/express.jpg" alt="express" height="40"/> </a>
+<a href="https://expressjs.com/en/5x/api.html" target="_blank"> <img src="./Img/express.jpg" alt="express" height="40"/> </a>
 <br>Express
     </td>
     <td align="center" width="96">  
