@@ -7,6 +7,9 @@ Con un enfoque en el desarrollo web y la programación, tengo experiencia trabaj
 Además de mi trabajo como desarrollador/a, disfruto mucho el trabajo en equipo y colaborar con otros desarrolladores para crear proyectos emocionantes y significativos. Creo firmemente que la diversidad y la inclusión son fundamentales para el éxito de cualquier proyecto y siempre estoy buscando maneras de involucrarme en la comunidad de desarrollo para aprender de otros y compartir mi experiencia.
 
 <!--
+<h2 align="left">Web personal</h2>
+<p></p>
+
 ## Proyectos
 
 En mi perfil de GitHub, encontrarás una variedad de proyectos en los que he trabajado, desde pequeños experimentos hasta proyectos más grandes y completos. Aquí hay algunos ejemplos:
