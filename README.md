@@ -33,8 +33,8 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./Img/OIP.jpg" alt="css3" width="40" height="40"/> </a> 
 <br>CSS
     </td>
-    <td align="center" width="96">  
-<a href="https://git-scm.com/" target="_blank"> <img src="./Img/R (1).png" alt="git" width="40" height="40"/> </a>
+    <td align="center" width="96"> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
 <br>React
     </td>
     <td align="center" width="96"> 
@@ -57,10 +57,10 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
     <td align="center" width="96">  
 <a href="https://www.postgresql.org" target="_blank"> <img src="./Img/SQL.jpg" alt="postgresql" width="40" height="40"/> </a>
 <br>PostgreSQL
-<br>Git
     </td>
-    <td align="center" width="96"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
+    <td align="center" width="96">  
+<a href="https://git-scm.com/" target="_blank"> <img src="./Img/R (1).png" alt="git" width="40" height="40"/> </a>
+<br>Git
 </table>
 
 ## 📫 Contacto
