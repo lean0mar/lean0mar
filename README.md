@@ -74,6 +74,9 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
     <td align="center" width="96">  
 <a href="https://git-scm.com/" target="_blank"> <img src="./Img/R (1).png" alt="git" width="40" height="40"/> </a>
 <br>Git
+    <td align="center" width="96"> 
+    <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a>  
+    <br>Bootstrap
 </table>
 
 <h2 align="left">📫 Contact</h2>
