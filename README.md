@@ -1,10 +1,10 @@
 ## ¡Bienvenido/a a mi perfil de GitHub! 👋
 
-¡Hola! Soy Leandro Martinez un/a desarrollador/a apasionado/a y comprometido/a con crear soluciones innovadoras y prácticas que puedan tener un impacto positivo en el mundo.
+¡Hola! Soy Leandro Martinez un desarrollador apasionado y comprometido con crear soluciones innovadoras y prácticas que puedan tener un impacto positivo en el mundo.
 
-Con un enfoque en el desarrollo web y la programación, tengo experiencia trabajando con una variedad de tecnologías, incluyendo [lista de tecnologías que manejas]. Me gusta mantenerme actualizado/a sobre las últimas tendencias y herramientas, y disfruto de enfrentar nuevos desafíos en mi trabajo diario.
+Con un enfoque en el desarrollo web y la programación, tengo experiencia trabajando con una variedad de tecnologías. Me gusta mantenerme actualizado sobre las últimas tendencias y herramientas, y disfruto de enfrentar nuevos desafíos en mi trabajo diario.
 
-Además de mi trabajo como desarrollador/a, disfruto mucho el trabajo en equipo y colaborar con otros desarrolladores para crear proyectos emocionantes y significativos. Creo firmemente que la diversidad y la inclusión son fundamentales para el éxito de cualquier proyecto y siempre estoy buscando maneras de involucrarme en la comunidad de desarrollo para aprender de otros y compartir mi experiencia.
+Además de mi trabajo como desarrollador, disfruto mucho el trabajo en equipo y colaborar con otros desarrolladores para crear proyectos emocionantes y significativos. Creo firmemente que la diversidad y la inclusión son fundamentales para el éxito de cualquier proyecto y siempre estoy buscando maneras de involucrarme en la comunidad de desarrollo para aprender de otros y compartir mi experiencia.
 
 <!--
 <h2 align="left">Web personal</h2>
