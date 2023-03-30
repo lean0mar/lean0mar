@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lean0mar&label=Profile%20views&color=0e75b6&style=flat" alt="lean0mar" /> </p>
+
 Hi! I'm Leandro Martinez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
 
 With a focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date on the latest trends and tools, and I enjoy taking on new challenges in my daily work.
@@ -97,4 +99,12 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
 </a>
 <br>
 <br>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> </p><h3 align="left">Conéctate conmigo:</h3><p align="left"></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lean0mar&show_icons=true&locale=en&layout=compact" alt="lean0mar" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
 <br>
