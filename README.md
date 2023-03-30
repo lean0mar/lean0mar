@@ -1,10 +1,10 @@
-<h1 align="center">¡Bienvenido/a a mi perfil de GitHub! 👋</h1>
+<h1 align="center">Welcome to my GitHub profile! 👋</h1>
 
-¡Hola! Soy Leandro Martinez un desarrollador apasionado y comprometido con crear soluciones innovadoras y prácticas que puedan tener un impacto positivo en el mundo.
+Hi! I'm Leandro Martinez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
 
-Con un enfoque en el desarrollo web y la programación, tengo experiencia trabajando con una variedad de tecnologías. Me gusta mantenerme actualizado sobre las últimas tendencias y herramientas, y disfruto de enfrentar nuevos desafíos en mi trabajo diario.
+With a focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date on the latest trends and tools, and I enjoy taking on new challenges in my daily work.
 
-Además de mi trabajo como desarrollador, disfruto mucho el trabajo en equipo y colaborar con otros desarrolladores para crear proyectos emocionantes y significativos. Creo firmemente que la diversidad y la inclusión son fundamentales para el éxito de cualquier proyecto y siempre estoy buscando maneras de involucrarme en la comunidad de desarrollo para aprender de otros y compartir mi experiencia.
+In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
 
 
 - 🔭 I’m currently working on [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp) 
@@ -31,7 +31,7 @@ En mi perfil de GitHub, encontrarás una variedad de proyectos en los que he tra
 Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cosas nuevas, por lo que me encantaría recibir comentarios y sugerencias sobre cualquier proyecto que encuentres en mi perfil.
 -->
 
-<h2 align="left">⚡ Lenguajes y herramientas</h2>
+<h2 align="left">⚡ Languages and tools</h2>
 <table>
   <tr>
     <td align="center" width="96"> 
@@ -76,9 +76,9 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
 <br>Git
 </table>
 
-<h2 align="left">📫 Contacto</h2>
+<h2 align="left">📫 Contact</h2>
 
-¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o quieres saber más sobre mi trabajo, no dudes en contactarme. ¡Espero saber de ti pronto!
+Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
 
 <a href="https://github.com/Lean0mar/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
