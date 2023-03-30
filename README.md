@@ -1,4 +1,4 @@
-<h2 align="left">¡Bienvenido/a a mi perfil de GitHub! 👋</h2>
+<h1 align="center">¡Bienvenido/a a mi perfil de GitHub! 👋</h1>
 
 ¡Hola! Soy Leandro Martinez un desarrollador apasionado y comprometido con crear soluciones innovadoras y prácticas que puedan tener un impacto positivo en el mundo.
 
