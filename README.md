@@ -6,16 +6,15 @@ Con un enfoque en el desarrollo web y la programación, tengo experiencia trabaj
 
 Además de mi trabajo como desarrollador, disfruto mucho el trabajo en equipo y colaborar con otros desarrolladores para crear proyectos emocionantes y significativos. Creo firmemente que la diversidad y la inclusión son fundamentales para el éxito de cualquier proyecto y siempre estoy buscando maneras de involucrarme en la comunidad de desarrollo para aprender de otros y compartir mi experiencia.
 
-<ul>
-<li> 🔭 I’m currently working on [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp) <li>
 
-<li> 🌱 I’m currently learning **English** <li>
+- 🔭 I’m currently working on [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp) 
 
-<li> 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar) <li>
+- 🌱 I’m currently learning **English** 
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar) 
 
 
-<li> ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!** <li>
-<ul>
+- ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
 
 <!--
 <h2 align="left">Web personal</h2>
