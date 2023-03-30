@@ -99,6 +99,7 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
 </a>
 <br>
 <br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
 <br>
 <br>
