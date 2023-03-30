@@ -99,11 +99,11 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
 </a>
 <br>
 <br>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lean0mar&show_icons=true&locale=en&layout=compact" alt="lean0mar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
 <br>
