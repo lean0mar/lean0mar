@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lean0mar&label=Profile%20views&color=0e75b6&style=flat" alt="lean0mar" /> </p>
 
-Hi! I'm Leandro Martinez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
+Hi! I'm Leandro Martínez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
 
 With a focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date on the latest trends and tools, and I enjoy taking on new challenges in my daily work.
 
@@ -22,13 +22,13 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 <h2 align="left">Web personal</h2>
 <p></p>
 
-## Proyectos
+<h1 align="center">📋 Proyect</h1>
 
-En mi perfil de GitHub, encontrarás una variedad de proyectos en los que he trabajado, desde pequeños experimentos hasta proyectos más grandes y completos. Aquí hay algunos ejemplos:
+On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
-- [Proyecto 1](link al proyecto 1): breve descripción del proyecto
-- [Proyecto 2](link al proyecto 2): breve descripción del proyecto
-- [Proyecto 3](link al proyecto 3): breve descripción del proyecto
+- [Rick & Morty](link al proyecto 1): breve descripción del proyecto
+- [Proyecto Individual](link al proyecto 2): breve descripción del proyecto
+- [Proyecto Grupal](link al proyecto 3): breve descripción del proyecto
 
 Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cosas nuevas, por lo que me encantaría recibir comentarios y sugerencias sobre cualquier proyecto que encuentres en mi perfil.
 -->
