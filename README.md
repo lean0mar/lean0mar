@@ -9,7 +9,7 @@ With a focus on web development and programming, I have experience working with 
 In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
 
 
-- 🔭 I’m currently working on [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp) 
+- 🔭 I’m currently working on [Rick & Morty](https://github.com/Lean0mar/PI-Countries) 
 
 - 🌱 I’m currently learning **English** 
 
@@ -21,17 +21,19 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 <!--
 <h2 align="left">Web personal</h2>
 <p></p>
+- [Proyecto Grupal](link al proyecto 3): breve descripción del proyecto
+-->
 
 <h1 align="center">📋 Proyect</h1>
 
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
-- [Rick & Morty](link al proyecto 1): breve descripción del proyecto
-- [Proyecto Individual](link al proyecto 2): breve descripción del proyecto
-- [Proyecto Grupal](link al proyecto 3): breve descripción del proyecto
+- [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
+- [Proyecto Individual](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
 
-Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cosas nuevas, por lo que me encantaría recibir comentarios y sugerencias sobre cualquier proyecto que encuentres en mi perfil.
--->
+
+I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
+
 
 <h2 align="left">⚡ Languages and tools</h2>
 <table>
