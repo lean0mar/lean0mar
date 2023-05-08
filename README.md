@@ -21,7 +21,6 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 <!--
 <h2 align="left">Web personal</h2>
 <p></p>
-- [Proyecto Grupal](link al proyecto 3): breve descripción del proyecto
 -->
 
 <h1 align="center">📋 Proyect</h1>
@@ -34,6 +33,9 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 
 - [Proyecto Individual](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
 
+<!--
+- [Proyecto Grupal](https://github.com/Xavimont0409/Proyecto-Final): breve descripción del proyecto
+-->
 
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
 
