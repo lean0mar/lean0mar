@@ -100,22 +100,20 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 <h2 align="center">📫 Contact</h2>
 
-<p align="center">
-  Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
-</p>
+Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
 
 <p align="center">
   <a href="https://github.com/Lean0mar/">
-    <img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="margin-bottom: 10px;/>
   </a>
   <a href="https://t.me/lean0mar">
-    <img alt="Telegram" width="22px" src="./Img/Telegram.jpg" />
+    <img alt="Telegram" width="22px" src="./Img/Telegram.jpg" style="margin-bottom: 10px;/>
   </a>
   <a href="mailto:lm.martinez.leandro@gmail.com">
-    <img alt="Gmail" width="22px" src="./Img/Gmail.jpg" />
+    <img alt="Gmail" width="22px" src="./Img/Gmail.jpg" style="margin-bottom: 10px;/>
   </a>
   <a href="https://www.linkedin.com/in/lean0mar">
-    <img alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" />
+    <img alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" style="margin-bottom: 10px;/>
   </a>
 </p>
 <br>
