@@ -9,11 +9,11 @@ With a focus on web development and programming, I have experience working with 
 In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
 
 
-- 🔭 I’m currently working on [Final Project](https://github.com/Xavimont0409/Proyecto-Finals) 
+- 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub) 
 
 - 🌱 I’m currently learning **English** 
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar) 
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar?tab=repositories) 
 
 
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
