@@ -104,16 +104,16 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
 
 <p align="center">
   <a href="https://github.com/Lean0mar/">
-    <img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="margin-bottom: 10px;/>
+    <img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="margin-right: 5px;/>
   </a>
   <a href="https://t.me/lean0mar">
-    <img alt="Telegram" width="22px" src="./Img/Telegram.jpg" style="margin-bottom: 10px;/>
+    <img alt="Telegram" width="22px" src="./Img/Telegram.jpg" style="margin-right: 5px;/>
   </a>
   <a href="mailto:lm.martinez.leandro@gmail.com">
-    <img alt="Gmail" width="22px" src="./Img/Gmail.jpg" style="margin-bottom: 10px;/>
+    <img alt="Gmail" width="22px" src="./Img/Gmail.jpg" style="margin-right: 5px;/>
   </a>
   <a href="https://www.linkedin.com/in/lean0mar">
-    <img alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" style="margin-bottom: 10px;/>
+    <img alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" style="margin-right: 5px;/>
   </a>
 </p>
 <br>
