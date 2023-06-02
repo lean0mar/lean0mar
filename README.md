@@ -35,7 +35,7 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 - [Proyecto Individual](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
 
 
-- [Proyecto Grupal](https://github.com/Xavimont0409/Proyecto-Final): breve descripción del proyecto
+- [Proyecto Final](https://github.com/Lean0mar/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
 
 
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
