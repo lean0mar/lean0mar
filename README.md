@@ -18,10 +18,10 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
 
-<!--
-<h2 align="left">Web personal</h2>
-<p></p>
--->
+
+<h2 align="left">🌐 Web personal</h2>
+<p>https://leandromartinez.vercel.app/</p>
+
 
 <h1 align="center">📋 Proyect</h1>
 
@@ -33,9 +33,9 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 
 - [Proyecto Individual](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
 
-<!--
+
 - [Proyecto Grupal](https://github.com/Xavimont0409/Proyecto-Final): breve descripción del proyecto
--->
+
 
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
 
@@ -44,32 +44,38 @@ I am always looking for opportunities to improve my skills and learn new things,
 <table>
   <tr>
     <td align="center" width="96"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./Img/logo-javascript-2.png" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./Img/JavaScript.png" alt="JavaScript" width="40" height="40"/> </a>
     <br>Javascript
     </td>
     <td align="center" width="96"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="./Img/R.png" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./Img/TypeScript.jpg" alt="TypeScript" width="40" height="40"/> </a>
+    <br>TypeScript
+    </td>
+    <td align="center" width="96"> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="./Img/Html.png" alt="html5" width="40" height="40"/> </a>
 <br>HTML
     </td>
     <td align="center" width="96"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./Img/OIP.jpg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./Img/Css.jpg" alt="css3" width="40" height="40"/> </a> 
 <br>CSS
     </td>
     <td align="center" width="96"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
 <br>React
     </td>
+        <td align="center" width="96"> 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="React Native" width="40" height="40"/> </a>
+<br>React Native
+    </td>
     <td align="center" width="96"> 
-<a href="https://reactnative.dev/" target="_blank"> <img src="./Img/R (2).png" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="./Img/Redux.png" alt="Redux" width="40" height="40"/> </a>
 <br>Redux
     </td>
-    <td align="center" width="96"> 
-<a href="https://babeljs.io/" target="_blank"> <img src="./Img/R (3).png" alt="babel" width="40" height="40"/> </a>
-<br>Babel
+        <td align="center" width="96"> 
+<a href="https://redux.js.org/redux-toolkit/overview/#:~:text=What%20is%20Redux%20Toolkit%3F%20%23.%20Redux%20Toolkit%20is,common%20Redux%20use%20cases%2C%20including%20store%20setup%2C%20" target="_blank"> <img src="./Img/Redux.png" alt="Redux Toolkit" width="40" height="40"/> </a>
+<br>Redux Toolkit
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="./Img/R (4).png" alt="Linux" width="40" height="40"/> </a>
+    <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="./Img/NodeJS.png" alt="Linux" width="40" height="40"/> </a>
 <br>NodeJs
     </td>
     <td align="center" width="96"> 
@@ -81,11 +87,14 @@ I am always looking for opportunities to improve my skills and learn new things,
 <br>PostgreSQL
     </td>
     <td align="center" width="96">  
-<a href="https://git-scm.com/" target="_blank"> <img src="./Img/R (1).png" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="./Img/Git.png" alt="git" width="40" height="40"/> </a>
 <br>Git
+</td>
     <td align="center" width="96"> 
     <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a>  
     <br>Bootstrap
+    </td>
+  </tr>
 </table>
 
 <h2 align="left">📫 Contact</h2>
