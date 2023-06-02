@@ -75,6 +75,8 @@ I am always looking for opportunities to improve my skills and learn new things,
 <a href="https://redux.js.org/redux-toolkit/overview/#:~:text=What%20is%20Redux%20Toolkit%3F%20%23.%20Redux%20Toolkit%20is,common%20Redux%20use%20cases%2C%20including%20store%20setup%2C%20" target="_blank"> <img src="./Img/Redux.png" alt="Redux Toolkit" width="40" height="40"/> </a>
 <br>Redux Toolkit
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="./Img/NodeJS.png" alt="Linux" width="40" height="40"/> </a>
 <br>NodeJs
     </td>
@@ -94,7 +96,6 @@ I am always looking for opportunities to improve my skills and learn new things,
     <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a>  
     <br>Bootstrap
     </td>
-  </tr>
 </table>
 
 <h2 align="left">📫 Contact</h2>
