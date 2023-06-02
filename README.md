@@ -19,15 +19,16 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
 
 
-<h2 align="left">🌐 Web personal</h2>
-<p>https://leandromartinez.vercel.app/</p>
+<h2 align="center">🌐 Web personal</h2>
+
+- [Portafolio](https://leandromartinez.vercel.app)
 
 
 <h1 align="center">📋 Proyect</h1>
 
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
-- [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
+[Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
 
 <br>
 
@@ -40,7 +41,7 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
 
 
-<h2 align="left">⚡ Languages and tools</h2>
+<h2 align="center">⚡ Languages and tools</h2>
 <table>
   <tr>
     <td align="center" width="96"> 
@@ -98,26 +99,26 @@ I am always looking for opportunities to improve my skills and learn new things,
     </td>
 </table>
 
-<h2 align="left">📫 Contact</h2>
+<h2 align="center">📫 Contact</h2>
 
 Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
 
 <a href="https://github.com/Lean0mar/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/lean0mar">
-  <img align="left" alt="Telegram" width="22px" src="./Img/Telegram.jpg" />
+  <img align="center" alt="Telegram" width="22px" src="./Img/Telegram.jpg" />
 </a>
 <a href="mailto:lm.martinez.leandro@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src= "./Img/Gmail.jpg" />
+  <img align="center" alt="Gmail" width="22px" src= "./Img/Gmail.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/lean0mar">
-  <img align="left" alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" />
+  <img align="center" alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" />
 </a>
 <br>
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
