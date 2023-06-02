@@ -28,7 +28,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
-[Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
+- [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
 
 <br>
 
