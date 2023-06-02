@@ -102,18 +102,26 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
 
+<td align="center" width="96">
 <a href="https://github.com/Lean0mar/">
   <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+</td>
+<td align="center" width="96">
 <a href="https://t.me/lean0mar">
   <img align="center" alt="Telegram" width="22px" src="./Img/Telegram.jpg" />
 </a>
+</td>
+<td align="center" width="96">
 <a href="mailto:lm.martinez.leandro@gmail.com">
   <img align="center" alt="Gmail" width="22px" src= "./Img/Gmail.jpg" />
 </a>
+</td>
+<td align="center" width="96">
 <a href="https://www.linkedin.com/in/lean0mar">
   <img align="center" alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" />
 </a>
+</td>
 <br>
 <br>
 <br>
