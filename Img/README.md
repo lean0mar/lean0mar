@@ -4,6 +4,11 @@
 
 <p align="center">Hi, I'm Julian Ignacio Caloggi, a passionate full stack developer committed to creating innovative and practical solutions that can have a positive impact on the world.</p>
 
+<br>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliancaloggi&" alt="juliancaloggi" /></p>
+<br>
+<br>
 
 - 👨‍💻 All my projects are available [here](https://github.com/julianCaloggi?tab=repositories).
 
@@ -16,6 +21,11 @@
 
 - [Portafolio](https://leandromartinez.vercel.app) -->
 
+<br>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliancaloggi" alt="juliancaloggi" /></a> </p>
+<br>
+<br>
 
 <h2 align="center">💻 Languages and Tools</h2>
 <table align="center">
@@ -75,34 +85,22 @@
      <br>Firebase
     </td>
         <td align="center" width="96">
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="tailwind" width="40" height="40"/> </a>
-     <br>Redux
-    </td>
-        <td align="center" width="96">
-    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="tailwind" width="40" height="40"/> </a>
-     <br>Redux Toolkit
-    </td>
-        <td align="center" width="96">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.92c8e77b78c17c5f0ad3e3425f090e85?rik=VVB4OKillEMqZw&pid=ImgRaw&r=0" alt="tailwind" width="40" height="40"/> </a>
      <br>APIs REST
     </td>
     </tr>
 </table>
 
-<h2 align="center">📫 Connect with me</h2>
-<p align="center">
-<a href="https://linkedin.com/in/jcdeveloperfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcdeveloperfs" height="30" width="40" /></a>
-</p>
-
-<br>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliancaloggi" alt="juliancaloggi" /></a> </p>
 <br>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliancaloggi&show_icons=true&locale=en&layout=compact" alt="juliancaloggi" /></p>
 <br>
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliancaloggi&" alt="juliancaloggi" /></p>
-<br>
-<br>
+
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">
+<a href="https://linkedin.com/in/jcdeveloperfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcdeveloperfs" height="30" width="40" /></a>
+</p>
+
+
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=juliancaloggi&show_icons=true&locale=en" alt="juliancaloggi" /></p>
