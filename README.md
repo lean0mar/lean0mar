@@ -72,7 +72,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 <br>Redux
     </td>
         <td align="center" width="96"> 
-<a href="https://redux.js.org/redux-toolkit/overview/#:~:text=What%20is%20Redux%20Toolkit%3F%20%23.%20Redux%20Toolkit%20is,common%20Redux%20use%20cases%2C%20including%20store%20setup%2C%20" target="_blank"> <img src="./Img/Redux.png" alt="Redux Toolkit" width="40" height="40"/> </a>
+<a href="https://redux-toolkit.js.org/" target="_blank"> <img src="./Img/Redux.png" alt="Redux Toolkit" width="40" height="40"/> </a>
 <br>Redux Toolkit
     </td>
   </tr>
