@@ -64,7 +64,12 @@
     </tr>
 </table>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliancaloggi&show_icons=true&locale=en" alt="juliancaloggi" /></p>
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliancaloggi&" alt="juliancaloggi" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=juliancaloggi&show_icons=true&locale=en" alt="juliancaloggi" /></p>
+<br>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliancaloggi&" alt="juliancaloggi" /></p>
+<br>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliancaloggi&show_icons=true&locale=en&layout=compact" alt="juliancaloggi" /></p>
