@@ -1,11 +1,12 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
-<h3 align="center">Hi, I'm Julian Ignacio Caloggi, a passionate full stack developer committed to creating innovative and practical solutions that can have a positive impact on the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancaloggi&label=Profile%20views&color=0e75b6&style=flat" alt="juliancaloggi" /> </p>
 
+<h3 align="center">Hi, I'm Julian Ignacio Caloggi, a passionate full stack developer committed to creating innovative and practical solutions that can have a positive impact on the world.</h3>
+
 - 👨‍💻 All my projects are available [here](https://github.com/julianCaloggi?tab=repositories).
 
-- 💬 Ask me about Html, css, Bootstrap, Tailwind, JavaScript, React y NodeJs.
+- 💬 Ask me about Html, Css, APIs REST, Tailwind, JavaScript, React y NodeJs.
 
 - 📄 Know about my [experiences](https://linkedin.com/in/jcdeveloperfs).
 
