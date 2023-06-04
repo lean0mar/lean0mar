@@ -115,10 +115,10 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 <br>
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lean0mar&show_icons=true&locale=en&layout=compact" alt="lean0mar" /></p>
 <br>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lean0mar&show_icons=true&locale=en&layout=compact" alt="juliancaloggi" /></p>
+
 
 <h2 align="center">📫 Contact</h2>
 
