@@ -103,9 +103,6 @@ I am always looking for opportunities to improve my skills and learn new things,
 Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
 
 <p align="center">
-  <a href="https://github.com/Lean0mar/">
-    <img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="margin-right: 10px;"/>
-  </a>
   <a href="https://t.me/lean0mar">
     <img alt="Telegram" width="22px" src="./Img/Telegram.jpg" style="margin-right: 10px;"/>
   </a>
