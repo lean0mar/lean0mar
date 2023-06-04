@@ -44,6 +44,11 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
 
+<br>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
+<br>
+<br>
 
 <h2 align="center">⚡ Languages and tools</h2>
 <table align="center" >
@@ -103,6 +108,12 @@ I am always looking for opportunities to improve my skills and learn new things,
     </td>
 </table>
 
+<br>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
+<br>
+<br>
+
 <h2 align="center">📫 Contact</h2>
 
 Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
@@ -119,14 +130,3 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
   </a>
 </p>
 
-<br>
-<br>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
-<br>
-<br>
-
-<br>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
-<br>
