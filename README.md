@@ -126,13 +126,13 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
 
 <p align="center">
   <a href="https://t.me/lean0mar">
-    <img alt="Telegram" width="22px" src="./Img/Telegram.jpg" style="margin-right: 10px;"/>
+    <img alt="Telegram" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:lm.martinez.leandro@gmail.com">
-    <img alt="Gmail" width="22px" src="./Img/Gmail.jpg" style="margin-right: 10px;"/>
+    <img alt="Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/lean0mar">
-    <img alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" style="margin-right: 10px;"/>
+    <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="margin-right: 10px;"/>
   </a>
 </p>
 
