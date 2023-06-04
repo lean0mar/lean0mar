@@ -41,7 +41,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 
 <h2 align="center">⚡ Languages and tools</h2>
-<table>
+<table align="center" >
   <tr>
     <td align="center" width="96"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./Img/JavaScript.png" alt="JavaScript" width="40" height="40"/> </a>
