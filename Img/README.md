@@ -79,7 +79,7 @@
      <br>Redux Toolkit
     </td>
         <td align="center" width="96">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.92c8e77b78c17c5f0ad3e3425f090e85?rik=VVB4OKillEMqZw&pid=ImgRaw&r=0" alt="tailwind" width="40" height="40"/> </a>
      <br>APIs REST
     </td>
     </tr>
