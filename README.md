@@ -28,6 +28,11 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 - [Portafolio](https://leandromartinez.vercel.app)
 
+<br>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
+<br>
+<br>
 
 <h2 align="center">📋 Proyect</h2>
 
@@ -110,9 +115,10 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
 <br>
 <br>
+
 
 <h2 align="center">📫 Contact</h2>
 
