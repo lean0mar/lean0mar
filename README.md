@@ -24,7 +24,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 - [Portafolio](https://leandromartinez.vercel.app)
 
 
-<h1 align="center">📋 Proyect</h1>
+<h2 align="center">📋 Proyect</h2>
 
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
