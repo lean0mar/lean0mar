@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancaloggi&label=Profile%20views&color=0e75b6&style=flat" alt="juliancaloggi" /> </p>
 
-<h3 align="center">Hi, I'm Julian Ignacio Caloggi, a passionate full stack developer committed to creating innovative and practical solutions that can have a positive impact on the world.</h3>
+<p align="center">Hi, I'm Julian Ignacio Caloggi, a passionate full stack developer committed to creating innovative and practical solutions that can have a positive impact on the world.</p>
 
 - 👨‍💻 All my projects are available [here](https://github.com/julianCaloggi?tab=repositories).
 
