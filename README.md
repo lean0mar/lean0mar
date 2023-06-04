@@ -18,7 +18,11 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
 
+<br>
+<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
+<br>
+<br>
 
 <h2 align="center">🌐 Web personal</h2>
 
