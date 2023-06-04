@@ -118,7 +118,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
 <br>
 <br>
-
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
 
 <h2 align="center">📫 Contact</h2>
 
