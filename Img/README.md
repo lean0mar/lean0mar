@@ -3,14 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancaloggi&label=Profile%20views&color=0e75b6&style=flat" alt="juliancaloggi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliancaloggi" alt="juliancaloggi" /></a> </p>
+- 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub) 
 
-<h3 align="center">📫 Connect with me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/jcdeveloperfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcdeveloperfs" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning **English** 
 
-<h3 align="center">Languages and Tools</h3>
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar?tab=repositories) 
+
+
+- ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
+
+
+<h3 align="center">💻 Languages and Tools</h3>
 <table>
 <tr>
 <td align="center" width="96">
@@ -61,9 +64,33 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
      <br>Tailwind
     </td>
+    <td align="center" width="96">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+     <br>Firebase
+    </td>
+        <td align="center" width="96">
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="tailwind" width="40" height="40"/> </a>
+     <br>Redux
+    </td>
+        <td align="center" width="96">
+    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="tailwind" width="40" height="40"/> </a>
+     <br>Redux Toolkit
+    </td>
+        <td align="center" width="96">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+     <br>APIs REST
+    </td>
     </tr>
 </table>
 
+<h3 align="center">📫 Connect with me</h3>
+<p align="center">
+<a href="https://linkedin.com/in/jcdeveloperfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcdeveloperfs" height="30" width="40" /></a>
+</p>
+
+<br>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliancaloggi" alt="juliancaloggi" /></a> </p>
 <br>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliancaloggi&show_icons=true&locale=en&layout=compact" alt="juliancaloggi" /></p>
