@@ -3,14 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancaloggi&label=Profile%20views&color=0e75b6&style=flat" alt="juliancaloggi" /> </p>
 
-- 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub) 
+- 👨‍💻 All my projects are available [here](https://github.com/julianCaloggi?tab=repositories).
 
-- 🌱 I’m currently learning **English** 
+- 💬 Ask me about Html, css, Bootstrap, Tailwind, JavaScript, React y NodeJs.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar?tab=repositories) 
-
-
-- ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
+- 📄 Know about my [experiences](https://linkedin.com/in/jcdeveloperfs).
 
 
 <h2 align="center">💻 Languages and Tools</h2>
