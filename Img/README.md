@@ -64,10 +64,6 @@
     </tr>
 </table>
 
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliancaloggi&show_icons=true&locale=en&layout=compact" alt="juliancaloggi" /></p>
-<br>
-<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliancaloggi&show_icons=true&locale=en" alt="juliancaloggi" /></p>
 <br>
 <br>
