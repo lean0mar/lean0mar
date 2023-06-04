@@ -13,8 +13,8 @@
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
 
 
-<h3 align="center">💻 Languages and Tools</h3>
-<table>
+<h2 align="center">💻 Languages and Tools</h2>
+<table align="center">
 <tr>
 <td align="center" width="96">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -84,7 +84,7 @@
     </tr>
 </table>
 
-<h3 align="center">📫 Connect with me</h3>
+<h2 align="center">📫 Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/jcdeveloperfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcdeveloperfs" height="30" width="40" /></a>
 </p>
