@@ -18,6 +18,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
 
 <h2 align="center">🌐 Web personal</h2>
 
@@ -120,7 +121,7 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
 <br>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
+
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
