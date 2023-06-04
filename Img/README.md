@@ -4,17 +4,14 @@
 
 <p align="center">Hi, I'm Julian Ignacio Caloggi, a passionate full stack developer committed to creating innovative and practical solutions that can have a positive impact on the world.</p>
 
-<br>
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliancaloggi&" alt="juliancaloggi" /></p>
-<br>
-<br>
+
 
 - 👨‍💻 All my projects are available [here](https://github.com/julianCaloggi?tab=repositories).
 
 - 💬 Ask me about Html, Css, APIs REST, Tailwind, JavaScript, React y NodeJs.
 
 - 📄 Know about my [experiences](https://linkedin.com/in/jcdeveloperfs).
+
 
 
 <!-- <h2 align="center">🌐 Web personal</h2>
@@ -103,4 +100,9 @@
 </p>
 
 
+<br>
+<br>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=juliancaloggi&show_icons=true&locale=en" alt="juliancaloggi" /></p>
+<br>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliancaloggi&" alt="juliancaloggi" /></p>
