@@ -63,7 +63,7 @@ I am always looking for opportunities to improve my skills and learn new things,
     <br>Javascript
     </td>
     <td align="center" width="96"> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./Img/TypeScript.jpg" alt="TypeScript" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/> </a>
     <br>TypeScript
     </td>
     <td align="center" width="96"> 
@@ -75,19 +75,19 @@ I am always looking for opportunities to improve my skills and learn new things,
 <br>CSS
     </td>
     <td align="center" width="96"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
 <br>React
     </td>
         <td align="center" width="96"> 
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/> </a>
 <br>React Native
     </td>
     <td align="center" width="96"> 
-<a href="https://redux.js.org/" target="_blank"> <img src="./Img/Redux.png" alt="Redux" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux" width="40" height="40"/> </a>
 <br>Redux
     </td>
         <td align="center" width="96"> 
-<a href="https://redux-toolkit.js.org/" target="_blank"> <img src="./Img/Redux.png" alt="Redux Toolkit" width="40" height="40"/> </a>
+<a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux Toolkit" width="40" height="40"/> </a>
 <br>Redux Toolkit
     </td>
   </tr>
@@ -100,7 +100,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 <br>Express
     </td>
     <td align="center" width="96">  
-<a href="https://www.postgresql.org" target="_blank"> <img src="./Img/SQL.jpg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
 <br>PostgreSQL
     </td>
     <td align="center" width="96">  
