@@ -20,6 +20,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 <br>
 <br>
+<h2 align="center">✨ Stats</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
 <br>
 <br>
@@ -30,6 +31,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 <br>
 <br>
+<h2 align="center">🔥 Current Streak</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lean0mar&" alt="lean0mar" /></p>
 <br>
 <br>
@@ -51,6 +53,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 <br>
 <br>
+<h2 align="center">🏆 Thropy</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
 <br>
 <br>
@@ -115,6 +118,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 <br>
 <br>
+<h2 align="center">📓 Top Langs</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lean0mar&show_icons=true&locale=en&layout=compact" alt="lean0mar" /></p>
 <br>
 <br>
