@@ -27,7 +27,9 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 <h2 align="center">🌐 Web personal</h2>
 
+<td align="center">
 <a href="https://leandromartinez.vercel.app" target="_blank"> <img align="center" src="./foto.jpg" alt="Portafolio"/> </a>
+</td>
 
 <br>
 <br>
