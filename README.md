@@ -38,7 +38,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 <br>
 <br>
 
-<h2 align="center">📋 Proyect</h2>
+<h2 align="center">📋 Project</h2>
 
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
