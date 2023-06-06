@@ -53,7 +53,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 <br>
 <br>
-<h2 align="center">🏆 Thropy</h2>
+<h2 align="center">🏆 Trophies</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lean0mar" alt="lean0mar " /></a> 
 <br>
 <br>
@@ -118,7 +118,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 
 <br>
 <br>
-<h2 align="center">📓 Top Langs</h2>
+<h2 align="center">📓 Top languages usage</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lean0mar&show_icons=true&locale=en&layout=compact" alt="lean0mar" /></p>
 <br>
 <br>
