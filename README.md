@@ -9,14 +9,14 @@ With a focus on web development and programming, I have experience working with 
 In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
 
 
-- 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub) 
+- 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub).
 
-- 🌱 I’m currently learning **English** 
+- 🌱 I’m currently learning **English**.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar?tab=repositories) 
+- 👨‍💻 All of my projects are available at [repostories](https://github.com/Lean0mar?tab=repositories).
 
 
-- ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
+- ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**.
 
 <br>
 <br>
@@ -43,10 +43,10 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 - [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
 
 
-- [Proyecto Individual](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
+- [Individual Project](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
 
 
-- [Proyecto Final](https://github.com/Lean0mar/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
+- [JobPortalX](https://github.com/Lean0mar/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
 
 
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
