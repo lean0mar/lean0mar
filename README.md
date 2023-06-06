@@ -27,7 +27,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 <h2 align="center">🌐 Web personal</h2>
 
-- [Portafolio](https://leandromartinez.vercel.app)
+- [Portfolio](https://leandromartinez.vercel.app)
 
 <br>
 <br>
