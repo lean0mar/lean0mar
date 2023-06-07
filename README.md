@@ -11,7 +11,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 - 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub).
 
-- 🌱 I’m currently learning **English**.
+- 🌱 I’m currently learning **English, React Native and Python**.
 
 - 👨‍💻 All of my projects are available at [repostories](https://github.com/Lean0mar?tab=repositories).
 
