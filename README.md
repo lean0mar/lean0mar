@@ -17,7 +17,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**.
- 
+  
 <br>
 <br>
 <h2 align="center">✨ Stats</h2>
