@@ -62,10 +62,10 @@ I am always looking for opportunities to improve my skills and learn new things,
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
     <br>Javascript
     </td>
-    <td align="center" width="96"> 
+    <!-- <td align="center" width="96"> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/> </a>
     <br>TypeScript
-    </td>
+    </td> -->
     <td align="center" width="96"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
 <br>HTML
