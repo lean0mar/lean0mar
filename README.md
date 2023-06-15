@@ -78,18 +78,18 @@ I am always looking for opportunities to improve my skills and learn new things,
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
 <br>React
     </td>
-        <td align="center" width="96"> 
+        <!-- <td align="center" width="96"> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/> </a>
 <br>React Native
-    </td>
+    </td> -->
     <td align="center" width="96"> 
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux" width="40" height="40"/> </a>
 <br>Redux
     </td>
-        <td align="center" width="96"> 
+        <!-- <td align="center" width="96"> 
 <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux Toolkit" width="40" height="40"/> </a>
 <br>Redux Toolkit
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
