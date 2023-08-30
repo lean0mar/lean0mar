@@ -2,12 +2,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lean0mar&label=Profile%20views&color=0e75b6&style=flat" alt="lean0mar" /> </p>
 
-Hi! I'm Leandro Martínez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
-
-With a focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date on the latest trends and tools, and I enjoy taking on new challenges in my daily work.
-
-In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
-
+Hello! I'm passionate about technology. At the end of 2022, I completed my high school studies, and since then, I've been focused on becoming a developer. In June 2023, I finished my studies at Soy Henry, where I acquired programming skills and knowledge to achieve my goal. I'm excited about the idea of being able to create practical solutions and applications that can make a difference. Additionally, I really enjoy teamwork and learning from others, so I'm thrilled to join such a passionate community like that of developers. I'm eager to see what the future holds for me!
 
 - 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub).
 
