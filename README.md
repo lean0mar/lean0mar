@@ -170,25 +170,11 @@ I am always looking for opportunities to improve my skills and learn new things,
       </a>
       <br>Postman
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </a>
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="https://gitlab.com/" target="_blank">
-        <img src="https://about.gitlab.com/images/press/brand/gitlab-logo-gray-stacked-rgb.png" alt="GitLab" width="40" height="40"/>
-      </a>
-      <br>GitLab
     </td>
   </tr>
 </table>
