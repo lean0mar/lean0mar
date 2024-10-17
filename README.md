@@ -4,7 +4,7 @@
 
 Hello! I have acquired essential programming skills and am interested in developing practical solutions and applications. I value teamwork and continuous learning. Excited to be part of the developer community and looking forward to future opportunities.
 
--   🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub).
+-   🔭 I’m currently working on [Recipe Explorer](https://github.com/lean0mar/recipe-explorer).
 
 -   🌱 I’m currently learning **English and Python**.
 
