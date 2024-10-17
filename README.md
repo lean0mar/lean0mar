@@ -106,7 +106,7 @@ I am always looking for opportunities to improve my skills and learn new things,
     </td>
     <td align="center" width="96">
       <a href="https://expressjs.com/en/5x/api.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+        <img src="express.svg" alt="Express" width="40" height="40"/>
       </a>
       <br>Express
     </td>
@@ -118,7 +118,7 @@ I am always looking for opportunities to improve my skills and learn new things,
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
       </a>
       <br>MySQL
     </td>
@@ -152,7 +152,7 @@ I am always looking for opportunities to improve my skills and learn new things,
   <tr>
     <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
       </a>
       <br>Bootstrap
     </td>
