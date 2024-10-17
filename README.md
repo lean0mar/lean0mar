@@ -128,7 +128,7 @@ I am always looking for opportunities to improve my skills and learn new things,
   <tr>
     <td align="center" width="96">
       <a href="https://parseplatform.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-ar21.svg" alt="Parse Server" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="Parse Server" width="40" height="40"/>
       </a>
       <br>Parse Server
     </td>
