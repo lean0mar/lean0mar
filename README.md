@@ -6,7 +6,7 @@ Hello! I'm passionate about technology. At the end of 2022, I completed my high 
 
 -   🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub).
 
--   🌱 I’m currently learning **English, Java and Python**.
+-   🌱 I’m currently learning **English and Python**.
 
 -   👨‍💻 All of my projects are available at [repostories](https://github.com/Lean0mar?tab=repositories).
 
