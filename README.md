@@ -128,7 +128,7 @@ I am always looking for opportunities to improve my skills and learn new things,
   <tr>
     <td align="center" width="96">
       <a href="https://parseplatform.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="Parse Server" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Parse Server" width="40" height="40"/>
       </a>
       <br>Parse Server
     </td>
@@ -144,6 +144,12 @@ I am always looking for opportunities to improve my skills and learn new things,
       </a>
       <br>Sequelize
     </td>
+    <td align="center" width="96">
+      <a href="https://mongoosejs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
+      </a>
+      <br>Mongoose
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -153,10 +159,36 @@ I am always looking for opportunities to improve my skills and learn new things,
       <br>Bootstrap
     </td>
     <td align="center" width="96">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+      </a>
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </a>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://gitlab.com/" target="_blank">
+        <img src="https://about.gitlab.com/images/press/brand/gitlab-logo-gray-stacked-rgb.png" alt="GitLab" width="40" height="40"/>
+      </a>
+      <br>GitLab
     </td>
   </tr>
 </table>
