@@ -4,22 +4,20 @@
 
 Hello! I'm passionate about technology. At the end of 2022, I completed my high school studies, and since then, I've been focused on becoming a developer. In June 2023, I finished my studies at Soy Henry, where I acquired programming skills and knowledge to achieve my goal. I'm excited about the idea of being able to create practical solutions and applications that can make a difference. Additionally, I really enjoy teamwork and learning from others, so I'm thrilled to join such a passionate community like that of developers. I'm eager to see what the future holds for me!
 
-- 🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub).
+-   🔭 I’m currently working on [Memories Hub](https://github.com/Lean0mar/Memories-Hub).
 
-- 🌱 I’m currently learning **English, React Native and Python**.
+-   🌱 I’m currently learning **English, React Native and Python**.
 
-- 👨‍💻 All of my projects are available at [repostories](https://github.com/Lean0mar?tab=repositories).
+-   👨‍💻 All of my projects are available at [repostories](https://github.com/Lean0mar?tab=repositories).
 
+-   ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**.
 
-- ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**.
-  
 <br>
 <br>
 <h2 align="center">✨ Stats</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lean0mar&show_icons=true&locale=en" alt="lean0mar" /></p>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -32,14 +30,11 @@ Hello! I'm passionate about technology. At the end of 2022, I completed my high 
 
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
-- [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
+-   [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
 
+-   [Individual Project](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
 
-- [Individual Project](https://github.com/Lean0mar/PI-Countries): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. The application will allow users to search for countries, view their information, filter and sort them, and create tourist activities. The application will also include a database with two models: one for countries and one for tourist activities, and it should connect to the restcountries API using NodeJS and Express. On the frontend side, the application will use React and Redux to create a home page, a main page that displays search results, a country detail page, and a form page for creating tourist activities.
-
-
-- [JobPortalX](https://github.com/Lean0mar/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
-
+-   [JobPortalX](https://github.com/Lean0mar/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
 
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
 
@@ -50,66 +45,120 @@ I am always looking for opportunities to improve my skills and learn new things,
 <br>
 <br>
 
-<h2 align="center">⚡ Languages and tools</h2>
-<table align="center" >
+<h2 align="center">⚡ Languages and Tools</h2>
+<table align="center">
   <tr>
-    <td align="center" width="96"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-    <br>Javascript
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
+      </a>
+      <br>HTML
     </td>
-    <!-- <td align="center" width="96"> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/> </a>
-    <br>TypeScript
-    </td> -->
-    <td align="center" width="96"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-<br>HTML
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+      </a>
+      <br>CSS
     </td>
-    <td align="center" width="96"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<br>CSS
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      </a>
+      <br>JavaScript
     </td>
-    <td align="center" width="96"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
-<br>React
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+      </a>
+      <br>TypeScript
     </td>
-        <!-- <td align="center" width="96"> 
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/> </a>
-<br>React Native
-    </td> -->
-    <td align="center" width="96"> 
-<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux" width="40" height="40"/> </a>
-<br>Redux
-    </td>
-        <!-- <td align="center" width="96"> 
-<a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux Toolkit" width="40" height="40"/> </a>
-<br>Redux Toolkit
-    </td> -->
   </tr>
   <tr>
-    <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
-<br>NodeJs
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+      </a>
+      <br>React
     </td>
-    <td align="center" width="96"> 
-<a href="https://expressjs.com/en/5x/api.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/> </a>
-<br>Express
+    <td align="center" width="96">
+      <a href="https://reactnative.dev/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/>
+      </a>
+      <br>React Native
     </td>
-    <td align="center" width="96">  
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-<br>PostgreSQL
+    <td align="center" width="96">
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux" width="40" height="40"/>
+      </a>
+      <br>Redux
     </td>
-    <td align="center" width="96">  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<br>Git
-</td>
-    <td align="center" width="96"> 
-    <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a>  
-    <br>Bootstrap
+    <td align="center" width="96">
+      <a href="https://redux-toolkit.js.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/redux.svg" alt="Redux Toolkit" width="40" height="40"/>
+      </a>
+      <br>Redux Toolkit
     </td>
-  <td align="center" width="96">
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40" height="40"/> </a> 
-<br>Sequelize
-  </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nodejs.dev/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/en/5x/api.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" width="40" height="40"/>
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://parseplatform.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/parse-community/parse-server/master/docs/parse-server-logo.svg" alt="Parse Server" width="40" height="40"/>
+      </a>
+      <br>Parse Server
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://sequelize.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40" height="40"/>
+      </a>
+      <br>Sequelize
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+      </a>
+      <br>Git
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -118,7 +167,6 @@ I am always looking for opportunities to improve my skills and learn new things,
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lean0mar&show_icons=true&locale=en&layout=compact" alt="lean0mar" /></p>
 <br>
 <br>
-
 
 <h2 align="center">📫 Contact</h2>
 
@@ -135,4 +183,3 @@ Thank you for visiting my GitHub profile! If you have any questions or would lik
     <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="margin-right: 10px;"/>
   </a>
 </p>
-
