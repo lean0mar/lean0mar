@@ -2,15 +2,15 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lean0mar&label=Profile%20views&color=0e75b6&style=flat" alt="lean0mar" /> </p>
 
-Hello! I have acquired essential programming skills and am interested in developing practical solutions and applications. I value teamwork and continuous learning. Excited to be part of the developer community and looking forward to future opportunities.
+Hello! I have acquired essential programming skills and am passionate about developing practical solutions and applications. I value teamwork and am committed to continuous learning. I'm excited to be part of the developer community and am looking forward to future opportunities.
 
 -   🔭 I’m currently working on [Recipe Explorer](https://github.com/lean0mar/recipe-explorer).
 
 -   🌱 I’m currently learning **English and Python**.
 
--   👨‍💻 All of my projects are available at [repostories](https://github.com/Lean0mar?tab=repositories).
+-   👨‍💻 All of my projects are available in my [repostories](https://github.com/Lean0mar?tab=repositories).
 
--   ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**.
+-   ⚡ Fun fact: **I love listening to music, drinking copious amounts of coffee, and, of course, programming!**
 
 <br>
 <br>
@@ -30,11 +30,11 @@ Hello! I have acquired essential programming skills and am interested in develop
 
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
--   [Recipe Explorer](https://github.com/lean0mar/recipe-explorer): A web application that allows users to explore, search, and manage recipes, integrating local recipes and external sources through the Spoonacular API. Built with React, TypeScript, Node.js, and MongoDB, featuring a modern, responsive design with TailwindCSS.
+-   [Recipe Explorer](https://github.com/lean0mar/recipe-explorer): This web application enables users to explore, search, and manage recipes. It integrates local favorites and external sources through the Spoonacular API. Built with React, TypeScript, Node.js, and MongoDB, it features a modern, responsive design using TailwindCSS.
 
--   [JobPortalX](https://github.com/Lean0mar/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
+-   [JobPortalX](https://github.com/Lean0mar/JobPortalX): As my capstone project, "JobPortalX" is a job portal built with React, Redux, Node.js, Express, and Sequelize. It supports searching, filtering, and sorting job listings, authentication via local or third-party services, secure payment processing, leaving reviews, and local data storage. The project also includes an admin panel and a notification system.
 
-I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
+I am continuously seeking opportunities to enhance my skills and learn new technologies. I would greatly appreciate your feedback and suggestions on any projects you explore on my profile.
 
 <br>
 <br>
